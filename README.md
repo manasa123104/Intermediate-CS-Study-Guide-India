@@ -10,6 +10,33 @@ This repository brings together:
 - safe and responsible digital-use guidance
 - exercises designed for school-level learning
 
+## Live website
+
+**[Open the Science & Computing Library](https://cs-interview-notes-manasa.naturalbracelet.chatgpt.site/)**
+
+The live library contains **5,460 questions across 55 collections**, including **60 Intermediate CS questions for Indian Class 11–12 students**.
+
+- Select **Study Intermediate CS** to browse the new collection.
+- Search questions, reveal answers, save questions, and track revision in your browser.
+- Use the **Intermediate (Class 11–12)** study-level filter.
+- [Open the Python and SQL practical workbook](https://cs-interview-notes-manasa.naturalbracelet.chatgpt.site/practice.html).
+- [Download the 60 Intermediate questions and answers](https://cs-interview-notes-manasa.naturalbracelet.chatgpt.site/subjects/intermediate-cs-india.md).
+
+The website retains its light cream-and-green design and its original science and computing collections.
+
+### AI, machine learning, and data science
+
+Select **All levels** on the website to explore these existing collections, with 100 questions each:
+
+- Artificial Intelligence and Search
+- Machine Learning and Data Fundamentals
+- Deep Learning and Natural Language Processing
+- Data Science and Statistics
+
+### Website and repository
+
+This GitHub repository contains the Intermediate study materials and a standalone HTML guide. The published Science & Computing Library is maintained in a separate Sites source repository. Changes committed here do not automatically deploy to the live website; the full 5,460-question website source is not included in this repository.
+
 ## Start here
 
 1. Read the [Questions and Answers](INTERMEDIATE-QA.md) beginning with the Foundation sections.
@@ -61,4 +88,4 @@ Suggest corrections with the question number, a clear explanation, and a trusted
 
 This repository is intended as a supporting study guide rather than an official board syllabus. State boards and CBSE vary in language, topics, and assessment style, so compare this material with your school's curriculum.
 
-Edition: 9 November 2026. Suggested repository name: Intermediate-CS-Study-Guide-India. The displayed guide title is updated independently of the GitHub repository URL.
+Edition: 9 November 2026.
