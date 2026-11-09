@@ -1,14 +1,32 @@
-# CS Study Guide India
+# Intermediate CS Study Guide India
 
+A beginner-friendly computer science guide for Indian students preparing for intermediate / Class 11–12 studies, school projects, and foundational programming practice.
+
+This repository brings together:
+
+- clear computer science explanations
+- Python 3 practice examples
+- SQL and database basics using SQLite
+- safe and responsible digital-use guidance
+- exercises designed for school-level learning
 
 ## Start here
 
-1. Read [Questions and answers](INTERMEDIATE-QA.md), beginning with the Foundation sections.
-2. Try [Practical exercises and solutions](PRACTICE.md). Cover the solutions while attempting the tasks.
-3. Use the revision plan below to revisit mistakes.
+1. Read the [Questions and Answers](INTERMEDIATE-QA.md) beginning with the Foundation sections.
+2. Work through the [Practical workbook](PRACTICE.md) before checking the solutions.
+3. Follow the revision plan below to review and strengthen weak areas.
 
-No prior interview preparation is required. Basic computer use is enough to start. Examples use Python 3 and fictional school data. SQL exercises run with SQLite through Python's standard library; adapt database-specific details if your course uses MySQL.
+No prior interview preparation is required. Basic computer use is enough to begin. Examples use Python 3 and fictional school data. SQL exercises run with SQLite through Python's standard library.
 
+## Repository contents
+
+- [INTERMEDIATE-QA.md](INTERMEDIATE-QA.md) — core theory, explanations, and revision questions
+- [PRACTICE.md](PRACTICE.md) — practice tasks and worked solutions
+- [CS-Interview-Notes-Top-100.md](CS-Interview-Notes-Top-100.md) — original advanced interview-note collection
+- [CS-Interview-Notes-Top-100.pdf](CS-Interview-Notes-Top-100.pdf) — PDF version of the original notes
+- [intermediate_cs_study_guide.html](intermediate_cs_study_guide.html) — HTML version of the guide
+- [UPLOAD-INSTRUCTIONS.md](UPLOAD-INSTRUCTIONS.md) — guidance for adding or updating study materials
+- [LEGACY-README.md](LEGACY-README.md) — preserved earlier project overview
 
 ## Two-week revision plan
 
@@ -21,24 +39,26 @@ No prior interview preparation is required. Basic computer use is enough to star
 - Day 13: Attempt the workbook without solutions.
 - Day 14: Correct mistakes and explain five answers aloud.
 
-Spend about 30–45 minutes per session. Adjust the pace to your learning needs.
+Spend about 30–45 minutes per session. Adjust the pace to match your learning needs.
 
-## Preserved advanced material
+## Study approach
 
-The original material remains unchanged for students who want to explore beyond this guide:
-
-- [Original 100 CS interview questions](CS-Interview-Notes-Top-100.md)
-- [Original interview-notes PDF](CS-Interview-Notes-Top-100.pdf)
-
-The PDF covers the older interview collection; it is not a PDF of the new Intermediate guide. The former README is preserved in [Legacy project overview](LEGACY-README.md).
+- Attempt each question before checking the answer.
+- Explain concepts in your own words.
+- Dry-run code by hand before executing it.
+- Test yourself on boundary cases, such as empty input, zero, and invalid values.
+- Use the workbook exercises to reinforce understanding.
 
 ## Offline use
 
-Choose **Code → Download ZIP** on GitHub. Open the Markdown files in a text editor or Markdown reader. Python exercises require Python 3; SQL exercises use its built-in sqlite3 module. No paid service, account, or external Python package is needed.
+Choose Code → Download ZIP on GitHub. Open the Markdown files in a text editor or Markdown reader. Python exercises require Python 3; SQL exercises use Python's built-in sqlite3 module. No paid software is required.
 
 ## Contributing
 
-Suggest corrections with the question number, a clear explanation, and a trusted reference where relevant. Keep examples suitable for school students, use invented data, and do not commit credentials or personal records.
+Suggest corrections with the question number, a clear explanation, and a trusted reference where relevant. Keep examples suitable for school students, use invented data, and do not commit personal or sensitive information.
 
-Edition: 9 November 2026. Suggested repository name: **Intermediate-CS-Study-Guide-India**. The displayed guide title is updated independently of the GitHub repository's URL.
+## Notes
 
+This repository is intended as a supporting study guide rather than an official board syllabus. State boards and CBSE vary in language, topics, and assessment style, so compare this material with your school's curriculum.
+
+Edition: 9 November 2026. Suggested repository name: Intermediate-CS-Study-Guide-India. The displayed guide title is updated independently of the GitHub repository URL.
