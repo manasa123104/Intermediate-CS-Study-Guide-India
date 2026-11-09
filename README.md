@@ -1,6 +1,5 @@
 # Intermediate CS Study Guide India
 
-A beginner-friendly computer science study collection for Indian Intermediate (Class 11–12) students, with 60 new questions and answers, worked Python and SQL exercises, and a short revision plan.
 
 ## Start here
 
