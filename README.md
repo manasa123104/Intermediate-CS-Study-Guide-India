@@ -1,4 +1,4 @@
-# Intermediate CS Study Guide India
+# CS Study Guide India
 
 
 ## Start here
@@ -9,9 +9,6 @@
 
 No prior interview preparation is required. Basic computer use is enough to start. Examples use Python 3 and fictional school data. SQL exercises run with SQLite through Python's standard library; adapt database-specific details if your course uses MySQL.
 
-## Scope
-
-This is supplementary learning material, not an official textbook or a complete board-exam syllabus. Indian state boards and CBSE may use different programming languages and topic sequences. Check your school's current syllabus and prescribed textbook. “Foundation” and “Progression” describe learning stages, not guaranteed Class 11 or Class 12 assignments.
 
 ## Two-week revision plan
 
