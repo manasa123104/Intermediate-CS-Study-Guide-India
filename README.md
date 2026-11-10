@@ -37,6 +37,20 @@ Select **All levels** on the website to explore these existing collections, with
 
 This GitHub repository contains the Intermediate study materials and a standalone HTML guide. The published Science & Computing Library is maintained in a separate Sites source repository. Changes committed here do not automatically deploy to the live website; the full 5,460-question website source is not included in this repository.
 
+## AI engineering interview preparation
+
+[Read the 100 questions and answers](AI-Engineering-Interview-Top-100.md) · [Download structured JSON](AI-Engineering-Interview-Top-100.json)
+
+An advanced interview-preparation supplement with **20 questions per topic**:
+
+- Retrieval-Augmented Generation (RAG)
+- Vector databases
+- Agentic AI
+- AI agents
+- Forward Deployed Engineering
+
+Includes concise answer outlines, system-design tradeoffs, evaluation, security, and customer-delivery scenarios. These are original practice questions, not an employer question bank or a ranked list. The collection is separate from the school-level Intermediate material and does not change the separately hosted library.
+
 ## Start here
 
 1. Read the [Questions and Answers](INTERMEDIATE-QA.md) beginning with the Foundation sections.
