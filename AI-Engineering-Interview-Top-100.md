@@ -1,3 +1,5 @@
+> Expanded collection: [900 questions across nine topics](Interview-Preparation-900.md). This file preserves the original 100-question edition.
+
 # 100 AI & Forward Deployed Engineering Interview Questions
 
 20 questions per topic. Original practice questions and concise answer outlines, not a ranked list or an employer question bank. Expand answers with your own real examples and measurable outcomes.

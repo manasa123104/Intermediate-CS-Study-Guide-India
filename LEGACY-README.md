@@ -30,5 +30,5 @@ Review ten questions a day. Explain each answer aloud, give one example, discuss
 
 This is a curated study selection, not an official ranking or a guarantee of interview coverage. The wording is original; official documentation and supplemental references are linked at the end of the notes. Implementation-specific behavior can vary by version and configuration.
 
-Prepared for Manasa Rajagopal Madabushi. Study edition: 7 November 2026.
+Study edition: 7 November 2026.
 

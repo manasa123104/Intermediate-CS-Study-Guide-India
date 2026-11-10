@@ -14,7 +14,7 @@ This repository brings together:
 
 **[Open the Science & Computing Library](https://cs-interview-notes-manasa.naturalbracelet.chatgpt.site/)**
 
-The live library contains **5,460 questions across 55 collections**, including **60 Intermediate CS questions for Indian Class 11–12 students**.
+The live library contains **6,360 questions across 64 collections**, including **60 Intermediate CS questions for Indian Class 11–12 students**.
 
 - Select **Study Intermediate CS** to browse the new collection.
 - Search questions, reveal answers, save questions, and track revision in your browser.
@@ -35,21 +35,25 @@ Select **All levels** on the website to explore these existing collections, with
 
 ### Website and repository
 
-This GitHub repository contains the Intermediate study materials and a standalone HTML guide. The published Science & Computing Library is maintained in a separate Sites source repository. Changes committed here do not automatically deploy to the live website; the full 5,460-question website source is not included in this repository.
+This GitHub repository contains the Intermediate study materials and a standalone HTML guide. The published Science & Computing Library is maintained in a separate Sites source repository. Changes committed here do not automatically deploy to the live website; the full 6,360-question website source is not included in this repository.
 
-## AI engineering interview preparation
+## AI, programming, and NLP interview preparation
 
-[Read the 100 questions and answers](AI-Engineering-Interview-Top-100.md) · [Download structured JSON](AI-Engineering-Interview-Top-100.json)
+**900 questions and answers — 100 per topic.**
 
-An advanced interview-preparation supplement with **20 questions per topic**:
+[Read the complete collection](Interview-Preparation-900.md) · [Structured JSON](interview-prep/questions.json)
 
-- Retrieval-Augmented Generation (RAG)
-- Vector databases
-- Agentic AI
-- AI agents
-- Forward Deployed Engineering
+- [RAG — Interview Questions](interview-prep/rag-interview.md) — 100 Q&A
+- [Vector Databases — Interview Questions](interview-prep/vector-databases-interview.md) — 100 Q&A
+- [Agentic AI — Interview Questions](interview-prep/agentic-ai-interview.md) — 100 Q&A
+- [AI Agents — Interview Questions](interview-prep/ai-agents-interview.md) — 100 Q&A
+- [Forward Deployed Engineering — Interview Questions](interview-prep/forward-deployed-engineer-interview.md) — 100 Q&A
+- [Java — Interview Questions](interview-prep/java-interview.md) — 100 Q&A
+- [Python — Interview Questions](interview-prep/python-interview.md) — 100 Q&A
+- [R — Interview Questions](interview-prep/r-interview.md) — 100 Q&A
+- [Natural Language Processing — Interview Questions](interview-prep/nlp-interview.md) — 100 Q&A
 
-Includes concise answer outlines, system-design tradeoffs, evaluation, security, and customer-delivery scenarios. These are original practice questions, not an employer question bank or a ranked list. The collection is separate from the school-level Intermediate material and does not change the separately hosted library.
+[Open the live Science & Computing Library](https://cs-interview-notes-manasa.naturalbracelet.chatgpt.site/) and choose a topic from the new interview section. Original practice material, not an employer question bank or statistical ranking. This advanced supplement is separate from the school-level collection.
 
 ## Start here
 
